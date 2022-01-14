@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<members>
+	<member>
+		<firstname>John</firstname>
+		<lastname>Smith</lastname>
+		<address>New Jersey</address>
+	</member>
+	<member>
+		<firstname>Claire</firstname>
+		<lastname>Temple</lastname>
+		<address>Racoon City</address>
+	</member>
+</members>
